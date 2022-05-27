@@ -24,3 +24,6 @@
    ### enable-rcon=true
    ### rcon.password= password
 9. Copy the ip password to the run.py file
+
+<br>
+<center style="color:red">จัดทำขึ้นเพื่อแจกฟรีเท่านั่นห้ามจำหน่าย !!</center>
