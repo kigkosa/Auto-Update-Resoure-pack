@@ -27,4 +27,4 @@
 
 <br>
 <p align="center">
-    <span style="color:red;">จัดทำขึ้นเพื่อแจกฟรีเท่านั่นห้ามจำหน่าย !!</span></p>
+    <span style="color:red;">[#f03c15]จัดทำขึ้นเพื่อแจกฟรีเท่านั่นห้ามจำหน่าย !!</span></p>
