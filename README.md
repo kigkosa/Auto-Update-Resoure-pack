@@ -28,4 +28,4 @@
 <br>
 <p align="center">
     <span style="color:red;">![#f03c15]จัดทำขึ้นเพื่อแจกฟรีเท่านั่นห้ามจำหน่าย !!</span></p>
-[#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
